@@ -4284,8 +4284,28 @@ content: "";
 #preloader span:nth-child(1) {
   width: 80px;
   height: 80px;
-  -webkit-animation: spin-1 4s infinite linear;
+  /*-webkit-animation: spin-1 4s infinite linear;
   animation: spin-1 4s infinite linear;
+
+        background-image: url(../images/loader-o.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-animation: zcwphone2 2s linear infinite;
+    -moz-animation: zcwphone2 2s linear infinite;
+    animation: zcwphone2 2s linear infinite;*/
+
+      background-image: url(../images/loader3.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    -webkit-animation: zcwphone2 2s linear infinite;
+    -moz-animation: zcwphone2 2s linear infinite;
+    animation: zcwphone2 2s linear infinite;
+
+
+  -webkit-animation: spin-1 2s infinite linear;
+  animation: spin-1 2s infinite linear;
+
+
 }
 
 #preloader span:nth-child(2) {
@@ -4293,8 +4313,6 @@ content: "";
   left: 20px;
   width: 40px;
   height: 40px;
-
-
       background-image: url(../images/loader.png);
     background-repeat: no-repeat;
     background-position: center center;
@@ -4303,8 +4321,8 @@ content: "";
     animation: zcwphone2 2s linear infinite;
 
 
-  -webkit-animation: spin-2 1s infinite linear;
-  animation: spin-2 1s infinite linear;
+  -webkit-animation: spin-2 2s infinite linear;
+  animation: spin-2 2s infinite linear;
 }
 .contact-title{
 background-color: #efefef;
