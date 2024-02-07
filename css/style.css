@@ -1080,7 +1080,7 @@ span.divider {
 
 /*-----------facts section---------*/
 .offer {
-  background: url(../images/facts-bg.jpg) no-repeat center center / cover;
+  background: url(../images/bg/220.jpg) no-repeat center center / cover;
   background-attachment: fixed;
 }
 
@@ -1399,16 +1399,16 @@ background: linear-gradient(to bottom, #fa7e1e 0%, #962fbf 100%);
     background-size: cover !important; 
 }
 .about-us{
-    background: url(../images/about-bg.jpg) no-repeat ;
+    background: url(../images/bg/271.jpg) no-repeat center;
 background-attachment: fixed;
 }
 .contact-us{
-    background: url(../images/contact-bg.jpg) no-repeat;
+    background: url(../images/bg/211.jpg) no-repeat center;
     background-attachment: fixed;
     background-position: bottom;
 }
 .gallery{
-    background: url(../images/gallery-bg.jpg) no-repeat fixed center center / cover;
+    background: url(../images/bg/121.jpg) no-repeat fixed center center / cover;
 }
 .franchise{
     background: url(../images/franchise-bg.jpg) no-repeat;
@@ -1416,10 +1416,10 @@ background-attachment: fixed;
     background-position: bottom;
 }
 .gift-vouchers{
-    background: url(../images/gift-vouchers-bg.jpg) no-repeat fixed center center / cover;
+    background: url(../images/bg/262.jpg) no-repeat fixed center center / cover;
 }
 .services-bg{
-  background: url(../images/services-bg.jpg) no-repeat ;
+  background: url(../images/bg/231.jpg) no-repeat center ;
        background-attachment: fixed;
     background-position: bottom;
 }
@@ -1428,7 +1428,7 @@ background-attachment: fixed;
 }
 
 .terms-condition{
-  background: url(../images/terms-condition.jpg) no-repeat fixed center center / cover;
+  background: url(../images/bg/110.jpg) no-repeat fixed center center / cover;
 }
 
 
@@ -1867,7 +1867,7 @@ color:#000;
 
 /*-----------*/
 .about-cta {
-  background: url(../images/about-cta-bg.jpg) no-repeat fixed center center / cover;
+  background: url(../images/bg/151.jpg) no-repeat fixed center center / cover;
 }
 
 .about-cta .content-txt h3 {
